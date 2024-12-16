@@ -1,4 +1,4 @@
-I'm currently brushing up my fullstack skills with a myriad of fun little projects. I'm currently working in C#, Angular, .NET, CSS, and more.
+I'm brushing up my fullstack skills with a myriad of fun little projects. I'm currently working in JavaScript, C#, Angular, .NET, CSS, and more.
 
 When I'm not coding I'm probably working on learning Unreal Engine 5 and Blender because I think it would be fun to build an indie game! 
 
